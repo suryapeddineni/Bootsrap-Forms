@@ -1,0 +1,13 @@
+.coustDiv{
+    margin: 2px;
+    min-height: 700px;
+    text-align: center;
+    font-size: large;
+}
+.col-md-2{
+    background-color: whitesmoke 
+}
+.col-md-10{
+
+ background-color: rgba(245, 245, 245, 0.918);
+}
